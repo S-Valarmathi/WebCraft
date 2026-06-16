@@ -1,22 +1,38 @@
-# Web Development Project 🚀
+# Web Development Projects 🚀
 
-A responsive web project built using HTML and CSS, focusing on clean design and user-friendly interface. ✨
+A collection of responsive and creative web projects built using HTML and CSS.
 
-## 🌐 Perfume Landing Page
+## 📌 Projects
 
-A responsive and elegant landing page designed using HTML and CSS. 💻
+### 1. Perfume Landing Page
 
-## 🛠️ Tech Stack
+A responsive and elegant perfume landing page designed using HTML and CSS.
 
-- 🌐 HTML
-- 🎨 CSS
+**🛠️ Tech Stack**
+- HTML
+- CSS
 
-## ✨ Features
+**📌 Features**
+- Clean and attractive layout
+- Well-structured product sections
+- User-friendly design
 
-- 📌 Clean layout
-- 🛍️ Product showcase
-- 📱 Responsive design
-
-## 🔗 Live Demo
-
+**🔗 Live Demo**
 (https://s-valarmathi.github.io/WebCraft/)
+
+
+### 2. Profile Card Design
+
+A simple and responsive profile card designed using HTML and CSS.
+
+**🛠️ Tech Stack**
+- HTML
+- CSS
+
+**📌 Features**
+- Clean profile presentation
+- Attractive card layout
+- Minimal and modern design
+
+**🔗 Live Demo**
+(https://s-valarmathi.github.io/WebCraft/profile-card.html)
